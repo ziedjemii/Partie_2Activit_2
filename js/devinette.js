@@ -29,4 +29,4 @@ else if (estimation>solution)
 chance++;
 }
 if (chance!=0)
-console.log("perdu la réponse était " + solution);
+console.log("perdu la réponse était " + solution +  "vous avez trouvez du chance" + coup );
